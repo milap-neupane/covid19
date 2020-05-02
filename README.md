@@ -25,6 +25,9 @@ samples, guidance on mobile development, and a full API reference.
 
 Editor used: Visual Studio Code
 
+## DataSet Source
+https://github.com/pomber/covid19
+
 ## ScreenShot
 
 ![a](images/screenshot.gif)
